@@ -1,0 +1,10 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+#hero-section{
+    background-image: url(../IMG-20240218-WA0051.jpg);
+height: 95vh;
+background-size: cover;
+background-position: center;
+
+}
